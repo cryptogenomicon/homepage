@@ -1,0 +1,7 @@
+BODY { 
+  background: black;
+  color: #00cc00;
+}
+A:link    { color: #00ff00 }
+A:visited { color: #00ff00 }
+A:hover   { color: #aaffaa }
