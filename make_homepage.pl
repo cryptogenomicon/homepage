@@ -9,15 +9,14 @@
 @embed_me = (
   "sean eddy's home page.",      0,
   "contact info.",               "contact.html",
-  "lab home page.",              "http://selab.janelia.org/",
-  "obtaining reprints & lab publications.", "http://selab.janelia.org/publications.html",
-  "hmmer.",                       "http://hmmer.janelia.org/",
-  "pfam.",                        "http://pfam.janelia.org/",
-  "infernal.",                    "http://infernal.janelia.org/",
-  "rfam.",                        "http://rfam.janelia.org/",
-  "biological sequence analysis.","http://selab.janelia.org/cupbook.html",
-  "my links.",                   "mylinks.html",
-  "cv.",                         "cv.pdf",
+  "lab home page.",              "http://eddylab.org/",
+  "obtaining reprints & lab publications.", "http://eddylab.org/publications.html",
+  "hmmer.",                       "http://hmmer.org/",
+  "pfam.",                        "http://pfam.xfam.org/",
+  "infernal.",                    "http://eddylab.org/software/infernal/",
+  "rfam.",                        "http://rfam.xfam.org/",
+  "biological sequence analysis.","http://eddylab.org/cupbook.html",
+  "cv.",                          "cv.pdf",
 );
 
 

@@ -1,21 +1,10 @@
-
 Updating homepage:
 
   Edit make_homepage.pl, not index.html. index.html is 
   created by make_homepage.pl
 
-  Also depends on ~/mystuff/cv/cv.tex; cv.pdf is created
-  from it.
-
-  eval `ssh-agent`; ssh-add
-  make test
-     [check if it's ok]
-     http://selab.janelia.org/people/eddys/hometest/
   make
      [check if it's ok]
-     http://selab.janelia.org/people/eddys/
+     http://eddylab.org/people/eddys/
 
-
-This directory is under Subversion control, at
-     https://svn.janelia.org/eddylab/eddys/web/homepage
 
