@@ -16,7 +16,7 @@
   "infernal.",                    "http://eddylab.org/software/infernal/",
   "rfam.",                        "http://rfam.xfam.org/",
   "biological sequence analysis.","http://eddylab.org/cupbook.html",
-  "cv.",                          "cv.pdf",
+  "cv.",                          "eddy_cv.pdf",
 );
 
 
