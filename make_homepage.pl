@@ -7,19 +7,20 @@
 
 #  short text to show:            url to link to (or 0)     
 @embed_me = (
-  "sean eddy's home page.",      0,
-  "contact info.",               "contact.html",
-  "blog.",                       "http://cryptogenomicon.org",
-  "lab home page.",              "http://eddylab.org/",
-  "obtaining reprints & lab publications.", "http://eddylab.org/publications.html",
-  "github.",                      "http://github.org/EddyRivasLab/",
-  "hmmer.",                       "http://hmmer.org/",
-  "pfam.",                        "http://pfam.xfam.org/",
-  "infernal.",                    "http://eddylab.org/software/infernal/",
-  "rfam.",                        "http://rfam.xfam.org/",
-  "biological sequence analysis.","http://eddylab.org/cupbook.html",
-  "cv.",                          "eddy_cv.pdf",
-  "google scholar.",              "https://scholar.google.com/citations?user=rFf-AooAAAAJ&hl=en",
+  "sean eddy's home page.",           0,
+  "contact info.",                    "contact.html",
+  "blog.",                            "http://cryptogenomicon.org",
+  "lab home page.",                   "http://eddylab.org/",
+  "reprints & lab publications.",     "http://eddylab.org/publications.html",
+  "github.",                          "http://github.org/EddyRivasLab/",
+  "hmmer.",                           "http://hmmer.org/",
+  "pfam.",                            "http://pfam.xfam.org/",
+  "infernal.",                        "http://eddylab.org/software/infernal/",
+  "rfam.",                            "http://rfam.xfam.org/",
+  "mcb112 biological data analysis.", "http://mcb112.org", 
+  "biological sequence analysis.",    "http://eddylab.org/cupbook.html",
+  "cv.",                              "eddy_cv.pdf",
+  "google scholar.",                  "https://scholar.google.com/citations?user=rFf-AooAAAAJ&hl=en",
 );
 
 
